@@ -2,8 +2,8 @@
 
 I am a Computer Science student at Wroclaw University of Science and Technology fascinated with Frontend Development!
 
-- 👨‍🎓 I’m currently learning *React/Redux* and *TypeScript*
-- 🤞 I’m looking for a job as a *React Developer*
+- 💻 I’m working as a Full Stack Developer
+- 👨‍🎓 I’m currently learning *React/Redux* and *Node.js*
 
 <br/>
 

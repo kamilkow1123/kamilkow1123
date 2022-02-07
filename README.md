@@ -2,7 +2,7 @@
 
 I am a Computer Science student at Wroclaw University of Science and Technology fascinated with Web Development!
 
-- 💻 I’m working as a Full Stack Developer
+- 💻 I’m working as a Full Stack Developer at Affee360
 - 👨‍🎓 I’m currently learning *React/Redux*, *Node.js* and *MongoDB*
 
 <br/>
